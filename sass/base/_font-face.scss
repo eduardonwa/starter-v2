@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Alegreya SC";
+    font-weight: 700;
+    font-display: swap;
+    src: url("/public/fonts/AlegreyaSC-Bold.woff2") format("woff2"),
+      url("/public/fonts/AlegreyaSC-Bold.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Source Sans 3";
+    font-weight: 400;
+    font-display: swap;
+    src: url("/public/fonts/SourceSans3-Regular.woff2") format("woff2"),
+      url("/public/fonts/SourceSans3-Regular.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Source Sans 3";
+    font-weight: 500;
+    font-display: swap;
+    src: url("/public/fonts/SourceSans3-SemiBold.woff2") format("woff2"),
+      url("/public/fonts/SourceSans3-SemiBold.woff") format("woff");
+  }
+  @font-face {
+    font-family: "Source Sans 3";
+    font-weight: 700;
+    font-display: swap;
+    src: url("/public/fonts/SourceSans3-Bold.woff2") format("woff2"),
+      url("/public/fonts/SourceSans3-Bold.woff") format("woff");
+  }
+  
